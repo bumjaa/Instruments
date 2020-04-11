@@ -1,0 +1,33 @@
+h1 {
+  margin: 0px;
+  padding: 0px;
+  width: 160px;
+  }
+
+h2 {
+  visibility: hidden;
+  width: 10px;
+  }
+
+ul {
+  margin: 0px;
+  padding: 0px;
+  }
+
+li {
+  list-style: none;
+  display: inline-block;
+}
+
+a {
+  display: block;
+  padding: 8px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  color:#3d3a38;
+}
+
+li a:hover {
+  color: #fff;
+  background: #2783d6;
+}
